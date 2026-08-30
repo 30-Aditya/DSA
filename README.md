@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/30-Aditya/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/30-Aditya/DSA/tree/master/0035-search-insert-position) |
 | [0977-squares-of-a-sorted-array](https://github.com/30-Aditya/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/30-Aditya/DSA/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/30-Aditya/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/30-Aditya/DSA/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
