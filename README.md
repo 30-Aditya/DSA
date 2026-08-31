@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0441-arranging-coins](https://github.com/30-Aditya/DSA/tree/master/0441-arranging-coins) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/30-Aditya/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [0009-palindrome-number](https://github.com/30-Aditya/DSA/tree/master/0009-palindrome-number) |
 ## Binary Search
 |  |
 | ------- |
