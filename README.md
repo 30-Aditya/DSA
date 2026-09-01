@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/30-Aditya/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/30-Aditya/DSA/tree/master/1089-duplicate-zeros) |
+| [0125-valid-palindrome](https://github.com/30-Aditya/DSA/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/30-Aditya/DSA/tree/master/0324-wiggle-sort-ii) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/30-Aditya/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
