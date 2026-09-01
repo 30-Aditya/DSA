@@ -1,10 +1,11 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
+        // Approach - Two Pointer
         int n = nums.length;
-        int l = 0, r = nums.length - 1;
+        int l = 0 , r = nums.length - 1;
 
         int[] result = new int[n];
-        for(int i = n - 1;i >= 0;i--){
+        for(int i = n - 1; i >= 0 ; i--){
             int val;
             if(Math.abs(nums[l]) > Math.abs(nums[r])){
                 val = nums[l];
