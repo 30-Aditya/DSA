@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/30-Aditya/DSA/tree/master/0441-arranging-coins) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/30-Aditya/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/30-Aditya/DSA/tree/master/0035-search-insert-position) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/30-Aditya/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Array
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/30-Aditya/DSA/tree/master/1089-duplicate-zeros) |
 | [0324-wiggle-sort-ii](https://github.com/30-Aditya/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0088-merge-sorted-array](https://github.com/30-Aditya/DSA/tree/master/0088-merge-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/30-Aditya/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/30-Aditya/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/30-Aditya/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0088-merge-sorted-array](https://github.com/30-Aditya/DSA/tree/master/0088-merge-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/30-Aditya/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/30-Aditya/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0324-wiggle-sort-ii](https://github.com/30-Aditya/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0088-merge-sorted-array](https://github.com/30-Aditya/DSA/tree/master/0088-merge-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/30-Aditya/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
