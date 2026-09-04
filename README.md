@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/30-Aditya/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/30-Aditya/DSA/tree/master/0035-search-insert-position) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/30-Aditya/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/30-Aditya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/30-Aditya/DSA/tree/master/0088-merge-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/30-Aditya/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [0001-two-sum](https://github.com/30-Aditya/DSA/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/30-Aditya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/30-Aditya/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0088-merge-sorted-array](https://github.com/30-Aditya/DSA/tree/master/0088-merge-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/30-Aditya/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/30-Aditya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
