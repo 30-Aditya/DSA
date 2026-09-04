@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/30-Aditya/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0088-merge-sorted-array](https://github.com/30-Aditya/DSA/tree/master/0088-merge-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/30-Aditya/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [0001-two-sum](https://github.com/30-Aditya/DSA/tree/master/0001-two-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/30-Aditya/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/30-Aditya/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/30-Aditya/DSA/tree/master/0680-valid-palindrome-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/30-Aditya/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
