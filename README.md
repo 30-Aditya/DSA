@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/30-Aditya/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/30-Aditya/DSA/tree/master/0075-sort-colors) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/30-Aditya/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/30-Aditya/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/30-Aditya/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0680-valid-palindrome-ii](https://github.com/30-Aditya/DSA/tree/master/0680-valid-palindrome-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/30-Aditya/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Quickselect
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/30-Aditya/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/30-Aditya/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/30-Aditya/DSA/tree/master/0680-valid-palindrome-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/30-Aditya/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Hash Table
 |  |
 | ------- |
