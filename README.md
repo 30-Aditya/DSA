@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/30-Aditya/DSA/tree/master/0075-sort-colors) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/30-Aditya/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/30-Aditya/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [0151-reverse-words-in-a-string](https://github.com/30-Aditya/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/30-Aditya/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/30-Aditya/DSA/tree/master/0680-valid-palindrome-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/30-Aditya/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [0151-reverse-words-in-a-string](https://github.com/30-Aditya/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
