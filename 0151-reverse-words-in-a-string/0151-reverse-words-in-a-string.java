@@ -1,10 +1,18 @@
-class Solution { 
-    public String reverseWords(String s) { 
-        String[] sentence=s.trim().split("\\s+"); 
-        String result=""; 
-        for(int i=sentence.length-1;i>=0;i--){ 
-            result+=sentence[i]+" "; 
-        } 
-        return result.trim(); 
-    } 
+class Solution {
+    public String reverseWords(String s) {
+        String trim = s.trim();
+        String[] arr = trim.split("\\s+");
+        int i = 0;
+        int j = arr.length - 1;
+
+        while(i < j){
+            String temp = arr[i];
+            arr[i] = arr[j];
+            arr[j] = temp;
+
+            i++;
+            j--;
+        }
+        return String.join(" ",arr);
+    }
 }
