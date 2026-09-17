@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/30-Aditya/DSA/tree/master/0035-search-insert-position) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/30-Aditya/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/30-Aditya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/30-Aditya/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Array
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/30-Aditya/DSA/tree/master/0075-sort-colors) |
 | [3483-unique-3-digit-even-numbers](https://github.com/30-Aditya/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [0016-3sum-closest](https://github.com/30-Aditya/DSA/tree/master/0016-3sum-closest) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/30-Aditya/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/30-Aditya/DSA/tree/master/0001-two-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/30-Aditya/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/30-Aditya/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Quicksort
 |  |
 | ------- |
@@ -113,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/30-Aditya/DSA/tree/master/0836-rectangle-overlap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/30-Aditya/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/30-Aditya/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
