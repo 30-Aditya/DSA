@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/30-Aditya/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/30-Aditya/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [0836-rectangle-overlap](https://github.com/30-Aditya/DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/30-Aditya/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/30-Aditya/DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/30-Aditya/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Dynamic Programming
 |  |
 | ------- |
