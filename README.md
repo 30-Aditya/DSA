@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/30-Aditya/DSA/tree/master/0680-valid-palindrome-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/30-Aditya/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [0151-reverse-words-in-a-string](https://github.com/30-Aditya/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/30-Aditya/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/30-Aditya/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/30-Aditya/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
