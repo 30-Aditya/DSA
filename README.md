@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/30-Aditya/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/30-Aditya/DSA/tree/master/0075-sort-colors) |
 | [0016-3sum-closest](https://github.com/30-Aditya/DSA/tree/master/0016-3sum-closest) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/30-Aditya/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/30-Aditya/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0680-valid-palindrome-ii](https://github.com/30-Aditya/DSA/tree/master/0680-valid-palindrome-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/30-Aditya/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/30-Aditya/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Quickselect
 |  |
 | ------- |
@@ -90,12 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/30-Aditya/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [0151-reverse-words-in-a-string](https://github.com/30-Aditya/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/30-Aditya/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/30-Aditya/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/30-Aditya/DSA/tree/master/0001-two-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/30-Aditya/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/30-Aditya/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/30-Aditya/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Quicksort
 |  |
 | ------- |
