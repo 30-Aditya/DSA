@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/30-Aditya/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/30-Aditya/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/30-Aditya/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/30-Aditya/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/30-Aditya/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/30-Aditya/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/30-Aditya/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/30-Aditya/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Quicksort
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/30-Aditya/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/30-Aditya/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Simulation
 |  |
 | ------- |
