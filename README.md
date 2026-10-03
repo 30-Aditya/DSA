@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/30-Aditya/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/30-Aditya/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/30-Aditya/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/30-Aditya/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/30-Aditya/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/30-Aditya/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [0022-generate-parentheses](https://github.com/30-Aditya/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/30-Aditya/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -156,11 +158,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/30-Aditya/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/30-Aditya/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/30-Aditya/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/30-Aditya/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/30-Aditya/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
