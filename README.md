@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/30-Aditya/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/30-Aditya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/30-Aditya/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/30-Aditya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/30-Aditya/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/30-Aditya/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [0066-plus-one](https://github.com/30-Aditya/DSA/tree/master/0066-plus-one) |
+| [0004-median-of-two-sorted-arrays](https://github.com/30-Aditya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/30-Aditya/DSA/tree/master/0324-wiggle-sort-ii) |
+| [0004-median-of-two-sorted-arrays](https://github.com/30-Aditya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 ## Greedy
 |  |
 | ------- |
