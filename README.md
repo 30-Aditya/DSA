@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/30-Aditya/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/30-Aditya/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/30-Aditya/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/30-Aditya/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/30-Aditya/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0006-zigzag-conversion](https://github.com/30-Aditya/DSA/tree/master/0006-zigzag-conversion) |
 | [0301-remove-invalid-parentheses](https://github.com/30-Aditya/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/30-Aditya/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,12 +166,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/30-Aditya/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/30-Aditya/DSA/tree/master/0032-longest-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/30-Aditya/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/30-Aditya/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/30-Aditya/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/30-Aditya/DSA/tree/master/0032-longest-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/30-Aditya/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Backtracking
 |  |
 | ------- |
