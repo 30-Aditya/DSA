@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/30-Aditya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/30-Aditya/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/30-Aditya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/30-Aditya/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/30-Aditya/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [0066-plus-one](https://github.com/30-Aditya/DSA/tree/master/0066-plus-one) |
 | [0004-median-of-two-sorted-arrays](https://github.com/30-Aditya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/30-Aditya/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/30-Aditya/DSA/tree/master/0075-sort-colors) |
 | [0016-3sum-closest](https://github.com/30-Aditya/DSA/tree/master/0016-3sum-closest) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/30-Aditya/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/30-Aditya/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/30-Aditya/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/30-Aditya/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/30-Aditya/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/30-Aditya/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
 | ------- |
@@ -183,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/30-Aditya/DSA/tree/master/0301-remove-invalid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/30-Aditya/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
