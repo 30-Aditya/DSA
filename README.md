@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/30-Aditya/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/30-Aditya/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/30-Aditya/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/30-Aditya/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/30-Aditya/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/30-Aditya/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [0268-missing-number](https://github.com/30-Aditya/DSA/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/30-Aditya/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/30-Aditya/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/30-Aditya/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/30-Aditya/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/30-Aditya/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
