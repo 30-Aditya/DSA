@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/30-Aditya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/30-Aditya/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [0268-missing-number](https://github.com/30-Aditya/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/30-Aditya/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/30-Aditya/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [0268-missing-number](https://github.com/30-Aditya/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/30-Aditya/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/30-Aditya/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/30-Aditya/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0016-3sum-closest](https://github.com/30-Aditya/DSA/tree/master/0016-3sum-closest) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/30-Aditya/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [0287-find-the-duplicate-number](https://github.com/30-Aditya/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -202,4 +205,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/30-Aditya/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/30-Aditya/DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/30-Aditya/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/30-Aditya/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
