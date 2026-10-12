@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/30-Aditya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/30-Aditya/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [0268-missing-number](https://github.com/30-Aditya/DSA/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/30-Aditya/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/30-Aditya/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/30-Aditya/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/30-Aditya/DSA/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/30-Aditya/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
