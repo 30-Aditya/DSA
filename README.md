@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/30-Aditya/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/30-Aditya/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/30-Aditya/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/30-Aditya/DSA/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/30-Aditya/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [0268-missing-number](https://github.com/30-Aditya/DSA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/30-Aditya/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/30-Aditya/DSA/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/30-Aditya/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/30-Aditya/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/30-Aditya/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/30-Aditya/DSA/tree/master/0645-set-mismatch) |
 ## Quicksort
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/30-Aditya/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/30-Aditya/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/30-Aditya/DSA/tree/master/0645-set-mismatch) |
 ## Pigeonhole Principle
 |  |
 | ------- |
