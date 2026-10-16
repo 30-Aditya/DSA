@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/30-Aditya/DSA/tree/master/0016-3sum-closest) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/30-Aditya/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [0287-find-the-duplicate-number](https://github.com/30-Aditya/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0005-longest-palindromic-substring](https://github.com/30-Aditya/DSA/tree/master/0005-longest-palindromic-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/30-Aditya/DSA/tree/master/0006-zigzag-conversion) |
 | [0301-remove-invalid-parentheses](https://github.com/30-Aditya/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/30-Aditya/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [0005-longest-palindromic-substring](https://github.com/30-Aditya/DSA/tree/master/0005-longest-palindromic-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/30-Aditya/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [0022-generate-parentheses](https://github.com/30-Aditya/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/30-Aditya/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0005-longest-palindromic-substring](https://github.com/30-Aditya/DSA/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/30-Aditya/DSA/tree/master/0287-find-the-duplicate-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/30-Aditya/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
