@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/30-Aditya/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [0268-missing-number](https://github.com/30-Aditya/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/30-Aditya/DSA/tree/master/0287-find-the-duplicate-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/30-Aditya/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Array
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/30-Aditya/DSA/tree/master/0645-set-mismatch) |
 | [0041-first-missing-positive](https://github.com/30-Aditya/DSA/tree/master/0041-first-missing-positive) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/30-Aditya/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/30-Aditya/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/30-Aditya/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/30-Aditya/DSA/tree/master/0645-set-mismatch) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/30-Aditya/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/30-Aditya/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
