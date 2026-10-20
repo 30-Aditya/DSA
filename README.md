@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/30-Aditya/DSA/tree/master/0041-first-missing-positive) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/30-Aditya/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/30-Aditya/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [0027-remove-element](https://github.com/30-Aditya/DSA/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/30-Aditya/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [0287-find-the-duplicate-number](https://github.com/30-Aditya/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0005-longest-palindromic-substring](https://github.com/30-Aditya/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/30-Aditya/DSA/tree/master/0027-remove-element) |
 ## Sorting
 |  |
 | ------- |
