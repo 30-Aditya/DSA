@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/30-Aditya/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [0005-longest-palindromic-substring](https://github.com/30-Aditya/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/30-Aditya/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/30-Aditya/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
 |  |
 | ------- |
