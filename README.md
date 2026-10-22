@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/30-Aditya/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/30-Aditya/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [0027-remove-element](https://github.com/30-Aditya/DSA/tree/master/0027-remove-element) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/30-Aditya/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
 | ------- |
