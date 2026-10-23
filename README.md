@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/30-Aditya/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [0027-remove-element](https://github.com/30-Aditya/DSA/tree/master/0027-remove-element) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/30-Aditya/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/30-Aditya/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/30-Aditya/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/30-Aditya/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/30-Aditya/DSA/tree/master/0645-set-mismatch) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/30-Aditya/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Pigeonhole Principle
 |  |
 | ------- |
