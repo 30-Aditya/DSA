@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/30-Aditya/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/30-Aditya/DSA/tree/master/0268-missing-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/30-Aditya/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [2409-count-days-spent-together](https://github.com/30-Aditya/DSA/tree/master/2409-count-days-spent-together) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/30-Aditya/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/30-Aditya/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/30-Aditya/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [2409-count-days-spent-together](https://github.com/30-Aditya/DSA/tree/master/2409-count-days-spent-together) |
 ## Hash Table
 |  |
 | ------- |
