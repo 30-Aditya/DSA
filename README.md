@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/30-Aditya/DSA/tree/master/0027-remove-element) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/30-Aditya/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/30-Aditya/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [0046-permutations](https://github.com/30-Aditya/DSA/tree/master/0046-permutations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/30-Aditya/DSA/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/30-Aditya/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/30-Aditya/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/30-Aditya/DSA/tree/master/0046-permutations) |
 ## Breadth-First Search
 |  |
 | ------- |
