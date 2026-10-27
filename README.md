@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/30-Aditya/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/30-Aditya/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -251,4 +252,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/30-Aditya/DSA/tree/master/0005-longest-palindromic-substring) |
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/30-Aditya/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/30-Aditya/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/30-Aditya/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
