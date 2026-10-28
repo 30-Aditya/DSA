@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/30-Aditya/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/30-Aditya/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [2409-count-days-spent-together](https://github.com/30-Aditya/DSA/tree/master/2409-count-days-spent-together) |
+| [0038-count-and-say](https://github.com/30-Aditya/DSA/tree/master/0038-count-and-say) |
 ## Hash Table
 |  |
 | ------- |
