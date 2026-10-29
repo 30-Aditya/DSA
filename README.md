@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/30-Aditya/DSA/tree/master/0268-missing-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/30-Aditya/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [2409-count-days-spent-together](https://github.com/30-Aditya/DSA/tree/master/2409-count-days-spent-together) |
+| [0168-excel-sheet-column-title](https://github.com/30-Aditya/DSA/tree/master/0168-excel-sheet-column-title) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3863-minimum-operations-to-sort-a-string](https://github.com/30-Aditya/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [2409-count-days-spent-together](https://github.com/30-Aditya/DSA/tree/master/2409-count-days-spent-together) |
 | [0038-count-and-say](https://github.com/30-Aditya/DSA/tree/master/0038-count-and-say) |
+| [0168-excel-sheet-column-title](https://github.com/30-Aditya/DSA/tree/master/0168-excel-sheet-column-title) |
 ## Hash Table
 |  |
 | ------- |
