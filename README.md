@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/30-Aditya/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [2409-count-days-spent-together](https://github.com/30-Aditya/DSA/tree/master/2409-count-days-spent-together) |
 | [0168-excel-sheet-column-title](https://github.com/30-Aditya/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/30-Aditya/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/30-Aditya/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/30-Aditya/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [0046-permutations](https://github.com/30-Aditya/DSA/tree/master/0046-permutations) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/30-Aditya/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/30-Aditya/DSA/tree/master/0645-set-mismatch) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/30-Aditya/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/30-Aditya/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/30-Aditya/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
