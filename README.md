@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/30-Aditya/DSA/tree/master/2409-count-days-spent-together) |
 | [0168-excel-sheet-column-title](https://github.com/30-Aditya/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/30-Aditya/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/30-Aditya/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/30-Aditya/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [0046-permutations](https://github.com/30-Aditya/DSA/tree/master/0046-permutations) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/30-Aditya/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/30-Aditya/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
