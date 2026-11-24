@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/30-Aditya/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/30-Aditya/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/30-Aditya/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/30-Aditya/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/30-Aditya/DSA/tree/master/0046-permutations) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/30-Aditya/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/30-Aditya/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/30-Aditya/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/30-Aditya/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/30-Aditya/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Geometry
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/30-Aditya/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/30-Aditya/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/30-Aditya/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Simulation
 |  |
 | ------- |
@@ -279,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/30-Aditya/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/30-Aditya/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
